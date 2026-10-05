@@ -1,6 +1,6 @@
 # StavPE – web
 
-Jednoduchý jednostránkový web pro StavPE, sádrokartonářské a zednické práce.
+Jednoduchý jednostránkový web pro StavPE: sádrokartony, obklady a dlažby. Píše se v 1. osobě jednotného čísla (klient pracuje sám).
 Provozovatel: Zdeněk Pechánek, IČO 88109534 (OSVČ, živnost Zednictví od 2011), Bystřická 1246, 432 01 Kadaň.
 Kontakt: 775 716 002, z.pechanek@gmail.com.
 
@@ -17,9 +17,9 @@ Bez měření návštěvnosti (klient GoatCounter nechce). Klient je plátce DPH
 
 ## Otevřené body
 
-- [ ] Klient potvrdí služby a texty (hlavně „cena předem“, obklady a dlažby, podkroví).
+- [x] Klient upravil služby 5. 10. 2026: bez zednických prací a rekonstrukcí, přidané kazetové podhledy, obklady a dlažby, texty v 1. osobě. Ještě potvrdí zbytek textů (hlavně „cena předem“).
 - [ ] Logo ve vektoru od výrobce polepu, pokud existuje (teď překreslené podle fotky).
 - [ ] Fotky realizací, případně doplnit galerii.
 - [ ] Oblast působnosti (teď Kadaň, Klášterec nad Ohří, Chomutov a okolí).
 - [ ] Doby uchování údajů v zásadách (navržené standardní: 1 rok / 3 roky / 10 let).
-- [ ] Vlastní doména a firemní e-mail.
+- [ ] Doména stavpe.cz (klientova, DNS u WebSupportu, teď na ní je prázdný WordPress). Plán: přesměrovat DNS na GitHub Pages (CNAME soubor + záznamy A/CNAME), WordPress nepoužívat. Pak přepsat github.io adresy v canonical, og:url, JSON-LD, robots.txt a sitemap.xml.

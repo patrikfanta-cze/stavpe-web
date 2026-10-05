@@ -134,7 +134,7 @@ h1, h2, h3 { font-family: var(--head); font-weight: 600; margin: 0; letter-spaci
 .list h3 { font-size: clamp(1.05rem, 1.8vw, 1.3rem); margin-bottom: 8px; }
 .list p { margin: 0; color: var(--ink-soft); }
 .list__minor::before { color: var(--ink-soft) !important; }
-.list li:nth-child(5) { border-top: 2px solid var(--ink); margin-top: 28px; }
+.list li:nth-child(6) { border-top: 2px solid var(--ink); margin-top: 28px; }
 
 /* Postup */
 .steps { padding: clamp(56px, 8vw, 96px) 0; background: var(--paper-2); border-block: 1px solid var(--line); }
