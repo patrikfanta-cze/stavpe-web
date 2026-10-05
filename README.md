@@ -17,7 +17,7 @@ Bez měření návštěvnosti (klient GoatCounter nechce). Klient je plátce DPH
 
 ## Doména stavpe.cz → GitHub Pages
 
-DNS spravuje WebSupport (ns1/ns2.websupport.cz, ns3.websupport.eu). Stav 5. 10. 2026: stavpe.cz a www ukazují na hosting WebSupportu (37.9.175.212) s prázdným WordPressem.
+**Hotovo 5. 10. 2026.** DNS spravuje WebSupport (ns1/ns2.websupport.cz, ns3.websupport.eu). Původně stavpe.cz a www ukazovaly na hosting WebSupportu (37.9.175.212) s prázdným WordPressem. WordPress hosting (1 795 Kč/rok, platba 17. 2. 2027) je ve stejném balíčku jako doména a schránka info@stavpe.cz — rušit jen po ověření u podpory, že tím nezanikne doména ani e-mail.
 
 Ve správě DNS u WebSupportu (admin.websupport.cz → doména stavpe.cz → DNS):
 
@@ -65,4 +65,4 @@ Doporučeno: v GitHub účtu (Settings → Pages → Verified domains) ověřit 
 - [ ] Fotky realizací, případně doplnit galerii.
 - [ ] Oblast působnosti (teď Kadaň, Klášterec nad Ohří, Chomutov a okolí).
 - [ ] Doby uchování údajů v zásadách (navržené standardní: 1 rok / 3 roky / 10 let).
-- [ ] Doména stavpe.cz (klientova, DNS u WebSupportu, teď na ní je prázdný WordPress). Plán: přesměrovat DNS na GitHub Pages (CNAME soubor + záznamy A/CNAME), WordPress nepoužívat. Pak přepsat github.io adresy v canonical, og:url, JSON-LD, robots.txt a sitemap.xml.
+- [x] Doména stavpe.cz přepnutá na GitHub Pages 5. 10. 2026 (DNS u WebSupportu upravil Patrik, e-mail info@stavpe.cz zůstal u WebSupportu).
