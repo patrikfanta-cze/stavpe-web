@@ -13,7 +13,7 @@ Web je samostatný, záměrně bez odkazů na Planet Express a další firmy maj
 
 Logo je nápis STAVPE podle polepu na dodávce klienta (STAV béžová, PE hnědá, A bez příčky), překreslené jako SVG přímo ve stránkách.
 Ilustrace v úvodu je vlastní řez sádrokartonovou příčkou. Písma Lexend Exa a Instrument Sans jsou uložená na webu.
-GoatCounter má kód `stavpe`.
+Bez měření návštěvnosti (klient GoatCounter nechce). Klient je plátce DPH, DIČ je odvozené z rodného čísla, proto na webu záměrně není. Ceny na webu nejsou; pokud se doplní, uvádět včetně DPH.
 
 ## Otevřené body
 
@@ -22,5 +22,4 @@ GoatCounter má kód `stavpe`.
 - [ ] Fotky realizací, případně doplnit galerii.
 - [ ] Oblast působnosti (teď Kadaň, Klášterec nad Ohří, Chomutov a okolí).
 - [ ] Doby uchování údajů v zásadách (navržené standardní: 1 rok / 3 roky / 10 let).
-- [ ] Založit web `stavpe` v GoatCounteru (zakládá Patrik).
 - [ ] Vlastní doména a firemní e-mail.
