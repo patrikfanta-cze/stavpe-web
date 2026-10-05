@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://patrikfanta-cze.github.io/stavpe-web/sitemap.xml
