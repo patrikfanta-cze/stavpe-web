@@ -205,3 +205,9 @@ h1, h2, h3 { font-family: var(--head); font-weight: 600; margin: 0; letter-spaci
   .foot__inner { grid-template-columns: 1fr; }
   .foot__links { text-align: left; }
 }
+
+/* Oblast působnosti (pod postupem) */
+.area { margin-top: clamp(48px, 7vw, 80px); padding-top: 32px; border-top: 1px solid var(--line); display: grid; grid-template-columns: 1fr 1.35fr; gap: clamp(20px, 6vw, 96px); }
+.area h2 { font-size: clamp(1.2rem, 2.2vw, 1.6rem); }
+.area p { margin: 0; color: var(--ink-soft); max-width: 40em; }
+@media (max-width: 860px) { .area { grid-template-columns: 1fr; } }

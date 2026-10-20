@@ -63,6 +63,6 @@ Doporučeno: v GitHub účtu (Settings → Pages → Verified domains) ověřit 
 - [x] Klient upravil služby 5. 10. 2026: bez zednických prací a rekonstrukcí, přidané kazetové podhledy, obklady a dlažby, texty v 1. osobě. Ještě potvrdí zbytek textů (hlavně „cena předem“).
 - [ ] Logo ve vektoru od výrobce polepu, pokud existuje (teď překreslené podle fotky).
 - [ ] Fotky realizací, případně doplnit galerii.
-- [ ] Oblast působnosti (teď Kadaň, Klášterec nad Ohří, Chomutov a okolí).
+- [ ] Oblast působnosti: od 20. 10. 2026 na webu (kvůli hledání na Googlu) i obce Perštejn, Vilémov, Rokle, Radonice, Málkov, Spořice, Údlice. Klient potvrdí, jestli tam opravdu jezdí.
 - [ ] Doby uchování údajů v zásadách (navržené standardní: 1 rok / 3 roky / 10 let).
 - [x] Doména stavpe.cz přepnutá na GitHub Pages 5. 10. 2026 (DNS u WebSupportu upravil Patrik, e-mail info@stavpe.cz zůstal u WebSupportu).
