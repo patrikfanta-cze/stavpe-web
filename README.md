@@ -2,7 +2,7 @@
 
 Jednoduchý jednostránkový web pro StavPE: sádrokartony, obklady a dlažby. Píše se v 1. osobě jednotného čísla (klient pracuje sám).
 Provozovatel: Zdeněk Pechánek, IČO 88109534 (OSVČ, živnost Zednictví od 2011), Bystřická 1246, 432 01 Kadaň.
-Kontakt: 775 716 002, z.pechanek@gmail.com.
+Kontakt: 775 716 002, info@stavpe.cz.
 
 Web je samostatný, záměrně bez odkazů na Planet Express a další firmy majitele.
 
